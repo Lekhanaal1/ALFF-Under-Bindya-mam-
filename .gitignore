@@ -1,0 +1,6 @@
+# Never commit subject-level / clinical data or trained model artifacts
+*.mat
+*.pkl
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
